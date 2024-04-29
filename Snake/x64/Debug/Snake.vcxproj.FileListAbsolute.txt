@@ -1,0 +1,3 @@
+C:\Users\Elena\Desktop\Snake\x64\Debug\Snake.vcxproj.CopyComplete
+C:\Users\Elena\Desktop\Snake\x64\Debug\Snake.exe
+C:\Users\Elena\Desktop\Snake\x64\Debug\raylib.dll

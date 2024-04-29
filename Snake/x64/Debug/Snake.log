@@ -1,0 +1,10 @@
+﻿  Snake.cpp
+C:\Users\Elena\Desktop\Snake\Snake.cpp(49,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Elena\Desktop\Snake\Snake.cpp(49,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Elena\Desktop\Snake\Snake.cpp(52,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Elena\Desktop\Snake\Snake.cpp(53,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Elena\Desktop\Snake\Snake.cpp(117,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Elena\Desktop\Snake\Snake.cpp(124,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Snake.vcxproj -> C:\Users\Elena\Desktop\Snake\x64\Debug\Snake.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
